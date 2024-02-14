@@ -1,4 +1,4 @@
-### Hi, I’m Iris 👋🏻 a fullstack web developer
+### Hi, I’m Iris 👋🏻 I'm a fullstack web developer👩‍💻
 
 Trained on a fullstack profile, I work with the JavaScript ecosystem on a variety of projects. With a strong affinity for front-end development, I’m keen to work with the React ecosystem and create dynamic, intuitive and user-friendly interfaces.
 
