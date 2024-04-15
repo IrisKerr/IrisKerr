@@ -13,7 +13,7 @@ I’m constantly seeking to improve my skills and tackle new challenges, always 
 
 **Frontend :** HTML, CSS, SCSS, JavaScript, Sass, React, Redux, TypeScript
 
-**Backend :** Node.js, Express, PostgreSQL, SQL, Sequelize, EJS, JavaScript
+**Backend :** Node.js, Express, PostgreSQL, SQL, Sequelize, EJS, JavaScript, Prisma, MongoDB
 
 **CSS libraries :** Tailwind, AntDesign, Bootstrap
 
