@@ -11,7 +11,7 @@ I’m constantly seeking to improve my skills and tackle new challenges, always 
 
 ## Skills
 
-**Frontend :** HTML, CSS, SCSS, JavaScript, Sass, React, Redux, TypeScript
+**Frontend :** HTML, CSS, SCSS, JavaScript, Sass, React, Redux, TypeScript, Next.js
 
 **Backend :** Node.js, Express, PostgreSQL, SQL, Sequelize, EJS, JavaScript, Prisma, MongoDB
 
