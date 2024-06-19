@@ -21,4 +21,4 @@ I’m constantly seeking to improve my skills and tackle new challenges, always 
 
 **Project management tools :** Jira, Slack, Github Projects
 
-**No-code tools :** Webflow
+**Webdesign & No-code tools :** Figma, Webflow
