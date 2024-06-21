@@ -9,16 +9,21 @@ I’m constantly seeking to improve my skills and tackle new challenges, always 
 [My LinkedIn](https://www.linkedin.com/in/iris-kerremans/) 👈
 [My Portfolio](https://iriskerremans.com/) 🍡
 
-## Skills
 
-**Frontend :** HTML, CSS, SCSS, JavaScript, Sass, React, Redux, TypeScript, Next.js
+## Skills 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,react,redux,ts,nextjs,nodejs,express,postgres,sequelize,prisma,mongodb,tailwind,bootstrap,vscode,git,github,githubactions,figma,webflow&theme=light&perline=11)](https://skillicons.dev)
 
-**Backend :** Node.js, Express, PostgreSQL, SQL, Sequelize, EJS, JavaScript, Prisma, MongoDB
+**Frontend :**  HTML, CSS, JavaScript, Sass, React, Redux, TypeScript, Next.js
+
+**Backend :** Node.js, Express, PostgreSQL, SQL, Sequelize, EJS, Prisma, MongoDB
 
 **CSS libraries :** Tailwind, AntDesign, Bootstrap
 
 **Development tools :** VsCode, Git, Github, GitKraken
 
-**Project management tools :** Jira, Slack, Github Projects
+**Project management tools :** Jira, Slack, Github Actions
 
 **Webdesign & No-code tools :** Figma, Webflow
+
+
+
