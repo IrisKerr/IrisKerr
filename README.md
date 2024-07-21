@@ -25,5 +25,4 @@ I’m constantly seeking to improve my skills and tackle new challenges, always 
 
 **Webdesign & No-code tools :** Figma, Webflow
 
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iriskerr&layout=compact)
