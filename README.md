@@ -19,7 +19,7 @@ I’m constantly seeking to improve my skills and tackle new challenges, always 
 
 **CSS libraries :** Tailwind, AntDesign, Bootstrap
 
-**Development tools :** VsCode, Git, Github, GitKraken
+**Development tools :** VsCode, Atom, Git, Github, GitKraken
 
 **Project management tools :** Jira, Slack, Github Actions
 
